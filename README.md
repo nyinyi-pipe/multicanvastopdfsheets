@@ -5,6 +5,12 @@
 npm install
 ```
 
+
+## Install packages
+```
+npm install jspdf @types/jspdf html2canvas @types/html2canvas --save
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
